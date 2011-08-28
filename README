@@ -1,0 +1,5 @@
+Usage:
+$ea = new EmailExtractor("input");
+
+Where input is for example a text, html or other file and it prints all unique email adresses.
+
